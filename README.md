@@ -3,18 +3,20 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Android + Java + Web Dev**
-- 💡 Passionate about building clean UI and smart applications
-- 🔭 Working on **Coffee Website**, **Android projects**, **Java projects**
-- 📫 Reach me at: **deepakbisht4050@gmail.com**
+### 🚀 Skills (🔥 Sliding Icons)
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px; scroll-behavior: smooth; white-space: nowrap;">
+  <img src="https://skillicons.dev/icons?i=html" height="80"/>
+  <img src="https://skillicons.dev/icons?i=css" height="80"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="80"/>
+  <img src="https://skillicons.dev/icons?i=java" height="80"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="80"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="80"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="80"/>
+  <img src="https://skillicons.dev/icons?i=git" height="80"/>
+  <img src="https://skillicons.dev/icons?i=github" height="80"/>
+</div>
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,androidstudio,git,github,vscode,mysql" />
-</p>
+<p align="center">👉 Swipe left/right to see more (Mobile friendly)</p>
 
 ---
 
@@ -28,13 +30,13 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=deepakbisht010&theme=dracula"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=deepakbisht010&theme=dracula&margin-w=10" />
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p>
-<a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="mailto:deepakbisht4050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+### 🌐 Connect with Me
+<p align="left">
+<a href="mailto:deepakbisht4050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+<a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 </p>
