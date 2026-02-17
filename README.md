@@ -13,6 +13,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="80"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="80"/>
   <img src="https://skillicons.dev/icons?i=git" height="80"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite,git,github" height="80"/>
+
+  
   <img src="https://skillicons.dev/icons?i=github" height="80"/>
 </div>
 
