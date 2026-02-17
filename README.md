@@ -1,45 +1,60 @@
-<h1 align="center">Hi 👋, I'm Deepak Bisht</h1>
-<h3 align="center">Full Stack Developer | Java | Android | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h3 align="center">⚛️ React Developer | 📱 Android Developer | 🎨 UI Enthusiast</h3>
 
----
-
-### 🚀 Skills (🔥 Sliding Icons)
-<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px; scroll-behavior: smooth; white-space: nowrap;">
-  <img src="https://skillicons.dev/icons?i=html" height="80"/>
-  <img src="https://skillicons.dev/icons?i=css" height="80"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="80"/>
-  <img src="https://skillicons.dev/icons?i=java" height="80"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="80"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="80"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="80"/>
-  <img src="https://skillicons.dev/icons?i=git" height="80"/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite," height="80"/>
-
-  
-  <img src="https://skillicons.dev/icons?i=github" height="80"/>
-</div>
-
-<p align="center">👉 Swipe left/right to see more (Mobile friendly)</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepakbisht010&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbisht010&theme=tokyonight" height="180px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;Tailwind+CSS+Enthusiast;Android+App+Builder;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 About Me
+
+- 🔭 I’m currently working on **React & Android Projects**
+- 🌱 Learning **Advanced Frontend & Backend Development**
+- 💡 Love building real-world applications
+- 📈 Focused on Clean UI & Smooth Performance
+
+---
+
+## ⚡ Tech Stack
+
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=deepakbisht010&theme=dracula&margin-w=10" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite,nodejs,,java,kotlin,androidstudio,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="mailto:deepakbisht4050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-<a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🔥 Code. Build. Repeat. 🚀</h3>
