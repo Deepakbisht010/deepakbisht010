@@ -48,6 +48,21 @@
 </p>
 
 ---
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakbisht010&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building Scalable React Projects  
+- 📱 Creating Android Apps  
+- 🌐 Exploring Backend & APIs  
+- 🎨 Improving UI/UX Skills  
+
 
 ---
 
