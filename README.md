@@ -1,3 +1,6 @@
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20Bisht&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Deepak</h1>   
 <h3 align="center">⚛️ React Developer | 📱 Android Developer | 🎨 UI Enthusiast</h3>
 
