@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🔭 I’m currently working on **React & Android Projects**
 - 🌱 Learning **Advanced Frontend & Backend Development**
