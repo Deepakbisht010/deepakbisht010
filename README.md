@@ -1,4 +1,4 @@
-<!-- Animated Header Wave -->  
+<!-- Animated Header Wave -->   
 <img src="https://capsule-render.vercel.app/api?type=waving&color==0:87CEEB,50:00BFFF,100:2c5364&height=200&section=header&text=Deepak%20Bisht&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>   
