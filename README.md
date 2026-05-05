@@ -6,7 +6,7 @@
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;Tailwind+CSS+Enthusiast;Android+App+Builder;Always+Learning+New+Things+🚀" />
-</p>
+</p> 
 
 ---
 
